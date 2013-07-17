@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://spencermccormick.com/atom.xml</id>
+    <title>Spencer's Stories</title>
+    <updated>2010-03-01T00:00:02Z</updated>
+    <link rel="self" href="http://SpencerMcCormick.com/atom.xml" type="application/atom+xml" />
+    <rights>Copyright 2010 Spencer McCormick</rights>
+    
+    <author>
+        <name>Spencer McCormick</name>
+        <uri>http://SpencerMcCormick.com</uri>
+        <email>hey@SpencerMcCormick.com</email>
+    </author>
+
+    <entry>
+        <title>new adventure, new feed</title>
+        <id>tag:spencermccormick.com,2010:createNewer7/</id>
+        <published>2011-04-03T20:10:00Z</published>
+        <updated>2011-04-03T20:10:00Z</updated>
+        <content type="html" >
+          <![CDATA[
+          <div>
+            <h1>new adventure, new feed</h1>
+			<p>I'm making a bicycle adventure series. We'll be traveling through the heart of eleven Sub-Saharan nations. It's going to be epic.</p>
+			<h4>To subscribe, <a href="http://feeds.feedburner.com/TwoWheelsToAddis">click here.</a></h4>
+			
+			<p>In the meantime, <a href="www.spencermccormick.com/stories/happy-happy-february-days/">here's a story about a chipmunk.</a></p> 
+			
+          </div>
+          ]]>
+        </content>
+    </entry> 
+  
+  
+ 
+</feed>

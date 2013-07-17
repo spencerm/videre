@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*	=structure
+/*	Default Layout: 1296px.      
+/* ------------------------------------------	*/
+body { background:white; color:black; }
+#masthead{margin-bottom: 2px;}
+img { border:1px solid black; }
+
+li.photo { position: relative; padding:5px 0; overflow:hidden; clear:both}
+li.photo img { margin-right:10px }
+
+
+/*		Tablet / Netbook: 1024.
+-------------------------------------------- */
+@media only screen and (min-width: 800px) and (max-width: 950px) {
+}
+/*		Mobile Layout: 480px.
+-------------------------------------------- */
+@media only screen and (min-width: 480px) and (max-width: 799px) {
+
+}
+/*		Mobile Layout: 320px.
+-------------------------------------------- */
+@media only screen and (max-width: 479px) {
+}
